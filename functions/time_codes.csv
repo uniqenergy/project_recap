@@ -1,0 +1,132 @@
+Value,Code,Activity,Definition
+1,1, Rig up, Rig up
+1A,1, Rig up, Move rig
+1B,1, Rig up, Rig up top drive
+1C,1, Rig up, Spot rig/loads/buildings
+1D,1, Rig up, Level rig
+2,2, Drill, Drill
+2A,2, Drill, Drill mousehole
+2B,2, Drill, Drill rathole
+2C,2, Drill, Drill cement/drill out cement/drill float&shoe
+3,3, Reaming, Reaming
+3A,3, Reaming, Ream & clean
+3B,3, Reaming, Back reaming
+3C,3, Reaming, Ream – open hole
+4,4, Coring, Coring
+4A,4, Coring, Handle core brls
+5,5, Condition mud & circulate, Condition mud & circulate
+5A,5, Condition mud & circulate, Build volume
+5B,5, Condition mud & circulate, Displace to oil base
+5C,5, Condition mud & circulate, Displace to water base
+5D,5, Condition mud & circulate, Circulate and Condition
+5E,5, Condition mud & circulate, C&C due to lost circulation
+5F,5, Condition mud & circulate, Change out mud system
+5G,5, Condition mud & circulate, Blow/unload hole
+5H,5, Condition mud & circulate, Displace to completion fluid
+5I,5, Condition mud & circulate, Clean out mud system
+5J,5, Condition mud & circulate, Stab in cementation
+5K,5, Condition mud & circulate, Clean cement stinger
+6,6, Trips, Trips
+6A,6, Trips, Trip in hole
+6B,6, Trips, Trip out of hole
+6C,6, Trips, Pick up BHA
+6D,6, Trips, Lay down BHA
+6E,6, Trips, Pick up drill pipe
+6F,6, Trips, Lay down drill pipe
+6G,6, Trips, Pick up 3rd party tools
+6H,6, Trips, Lay down 3rd party tools
+6J,6, Trips, Inspect BHA
+6M,6, Trips, Wiper Trip
+7,7, Rig Service, Rig Service
+7A,7, Rig Service, Clean - floor/pump/screens
+7B,7, Rig Service, Change pump head
+7C,7, Rig Service, Change screens
+8,8, Rig Repair, Rig Repair
+8A,8, Rig Repair, Downtime - Instrumentation
+8B,8, Rig Repair, Downtime - Top drive
+8C,8, Rig Repair, Downtime - Mud pump
+8D,8, Rig Repair, Downtime - Engines
+8E,8, Rig Repair, Downtime - Scr/Electrical
+8F,8, Rig Repair, Downtime - Drawworks
+8G,8, Rig Repair, Downtime - Mud system
+8H,8, Rig Repair, Downtime - BOP/choke
+8I,8, Rig Repair, Downtime - Hoisting/lifting
+9,9, Cut off Drill Line, Cut off Drill Line
+9A,9, Cut off Drill Line, Slip/Cut drilling line
+9B,9, Cut off Drill Line, Change drilling line
+10,10, Deviation survey, Deviation survey
+10A,10, Deviation survey, Wireline Surveys - Single shot surveys
+10B,10, Deviation survey, Wireline Surveys - Multi-shot surveys
+11,11, Wireline logs, Wireline logs
+11A,11, Wireline logs, Logging - Open hole logs
+11B,11, Wireline logs, Logging - Cased hole logs
+11C,11, Wireline logs, Logging - Coiled tubing logs
+11D,11, Wireline logs, Logging - Integrity logs
+12,12, Run casing & cementing, Run casing & cementing
+12A,12, Run casing & cementing, Rig up/down to run casing
+12B,12, Run casing & cementing, Run casing
+12C,12, Run casing & cementing, Cementing
+12D,12, Run casing & cementing, Top cement jobs
+12E,12, Run casing & cementing, Pressure test CSG/shoe
+12F,12, Run casing & cementing, Cement plugs
+12G,12, Run casing & cementing, Cement for lost circulation
+12H,12, Run casing & cementing, Pulling casing
+13,13, Wait on cement, Wait on cement
+14,14, Nipple up BOP, Nipple up BOP
+14A,14, Nipple up BOP, Nipple up BOPs
+14B,14, Nipple up BOP, Nipple down BOPs
+14C,14, Nipple up BOP, Nipple up/down diverter system
+14D,14, Nipple up BOP, Change rams
+14E,14, Nipple up BOP, Install wellhead/tree
+15,15, Test BOP, Test BOP
+15A,15, Test BOP, Pressure test BOPs
+15B,15, Test BOP, Function test BOPs
+15C,15, Test BOP, Test diverter
+15D,15, Test BOP, Test wellhead/tree
+16,16, Drill stem test, Drill stem test
+16A,16, Drill stem test, Handle test tools
+16B,16, Drill stem test, Trip in/out test tools
+16C,16, Drill stem test, Test formation
+17,17, Plug back, Plug back
+18,18, Squeeze cement, Squeeze cement
+19,19, Fishing, Fishing
+19A,19, Fishing, Jarring
+19B,19, Fishing, Handle fishing tools
+19B,19, Fishing, Handle fishing tools
+19C,19, Fishing, Wait on fishing tools
+19D,19, Fishing, Trip fishing tools
+19E,19, Fishing, Wireline work
+20,20, Directional work, Directional work
+20A,20, Directional work, Directional surveys
+20B,20, Directional work, Controlled drilling
+20C,20, Directional work, Tool orientation
+20D,20, Directional work, Handle directional tools
+20E,20, Directional work, Wait on directional
+21,21, Safety meeting, Safety meeting
+21A,21, Safety meeting," Drills/BOP, etc."
+21B,21, Safety meeting, JSA (Job Safety Analysis)
+21C,21, Safety meeting, On job training
+21D,21, Safety meeting, Pre-job safety
+21E,21, Safety meeting, QMS/RMS
+21F,21, Safety meeting, Safety inspection
+21G,21, Safety meeting, Safety stand-down
+21H,21, Safety meeting, Third Party Orientation
+22,22, Tear down, Tear down
+22A,22, Tear down, Move rig
+22B,22, Tear down, Rig down top drive
+22C,22, Tear down, Load rig
+23,23, Waiting on, Waiting on
+23A,23, Waiting on, W/O Cementer
+23B,23, Waiting on, W/O Daylight
+23C,23, Waiting on, W/O Lease/Location
+23D,23, Waiting on, W/O Loggers
+23E,23, Waiting on, W/O Orders
+23F,23, Waiting on, W/O Third Party Tools
+23G,23, Waiting on, W/O Third Party Personnel
+23H,23, Waiting on, W/O Tongs
+23I,23, Waiting on, W/O Trucks
+23J,23, Waiting on, W/O Water
+23K,23, Waiting on, W/O Weather
+23L,23, Waiting on, W/O Welder
+24,24, Rig Watch, Rig Watch
+25,25, Other, Other
